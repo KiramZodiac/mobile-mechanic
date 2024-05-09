@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
   return (
-    <div className=" bg-fixed">
+    <div className=" ">
       <div
         className=" flex  "
         style={
@@ -15,10 +15,11 @@ function Header() {
         }
       >
         <div className=" mt-20">
-          <div className=" pl-12 text-6xl text-blue-500 font-serif text-left fixed">
+          <div className=" pl-12 text-6xl text-orange-500 font-serif text-left ">
             <h1 className="center  ">Roadside Repair Pros</h1>
           </div>
-          <div className="absolute bottom left-40 text-center text-xl text-purple-900 text font-normal mt-10 p-10 whitespace-normal max-w-3xl pl-20 ">
+
+          <div className="absolute bottom left-40 text-center text-xl text-gray-800 text font-normal mt-10 p-10 whitespace-normal max-w-3xl pl-20 ">
             <p>
               Roadside Repair Pros offers professional and reliable emergency
               assistance for your vehicle. Our expert mechanics are available

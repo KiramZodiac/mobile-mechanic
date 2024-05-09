@@ -4,9 +4,13 @@ function Search() {
   const handleClick = (e: any) => {};
   return (
     <div className="">
+      <nav
+        className="navbar navbar-light"
+        style={{ backgroundColor: "#e3f2fd" }}
+      ></nav>
       <div className="border-solid border-y-emerald-50  pb-20 mt-60 flex place-content-center space-x-3    ">
         <input
-          className="  bg-cyan-600  pb-5 border-solid border- w-2/4 border-r-2  rounded-lg text-lg  "
+          className="  bg-cyan-600  pb-5 border-solid w-60 border-r-2  rounded-lg text-lg  "
           placeholder="search"
           type="text"
           style={{ fontSize: 20 }}
