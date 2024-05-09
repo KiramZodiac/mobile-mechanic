@@ -5,7 +5,7 @@ function Contact() {
     <div
       className=""
       style={{
-        backgroundImage: "url(cn.jpeg)",
+        // backgroundImage: "url(cn.jpeg)",
         backgroundSize: "cover",
         backgroundPosition: "center",
         minHeight: "50vh",
