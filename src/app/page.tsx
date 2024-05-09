@@ -19,7 +19,7 @@ export default function Home() {
         <Header />
       </div>
       <div className=" h-80 pr-40 pt-32">
-        <img src="mech1.jpeg" className="float-right  " />
+        <img src="mech1.jpeg" className=" img-f  " />
       </div>
 
       <Search />
